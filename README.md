@@ -1,1 +1,3 @@
 # sorting_algorithms
+sorting is a little commplicated but very possible, the key is knowing what to do in what order to do them...
+
